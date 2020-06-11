@@ -8,13 +8,3 @@ int main (void) {
     return 0;
 }
 
-
-/*
-
-1. \n
-
-2. Comments
-
-3. Indentation/whitespace
-
-*/
